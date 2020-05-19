@@ -16,6 +16,7 @@ export default new Router({
         {
             path: '/index',
             component: _import('Layout/index'),
+            redirect: '/index/index',
             children:[
                 {
                     path: 'index',
