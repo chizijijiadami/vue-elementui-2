@@ -45,7 +45,7 @@ export default {
         widthCollapse: "64px"
       },
       tabs: {
-        height: "40px"
+        height: "41px"
       },
       crumbs: {
         height: "30px"
